@@ -1,4 +1,4 @@
-Galeria de álbuns de fotos com React e .NET Core.
+Galeria de álbuns de fotos com React e .NET Core, com integração com AWS S3.
 
 ## Stack
 
@@ -7,6 +7,7 @@ Galeria de álbuns de fotos com React e .NET Core.
 - PostgreSQL
 - Dapper ORM
 - JWT + BCrypt
+- AWS S3
 
 ## Rodando localmente
 
